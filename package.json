@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "snowpack dev --polyfill-node",
+    "start": "snowpack dev --polyfill-node",
     "build": "snowpack build --polyfill-node",
     "init" : "snowpack init"
   },
